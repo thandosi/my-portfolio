@@ -2,7 +2,7 @@
     margin: 0%;
      padding: 0%;
      box-sizing: border-box;
-     background-attachment: fixed;
+    
      
  }
  
@@ -16,9 +16,10 @@
      
  }
  .topnav {
-     background-color:rebeccapurple;
+     background-color:grey;
      overflow: hidden;
-     position: sticky;
+     position: fixed;
+     z-index: 3;
      
    }
    

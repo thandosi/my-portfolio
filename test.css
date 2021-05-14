@@ -1,0 +1,40 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+  }
+  
+  .owl-carousel {
+    height: 100vh;
+  }
+  
+  body {
+    background-size: cover;
+
+
+  }
+  
+  .container {
+    background: rebeccapurple;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    border-radius: 9%;
+    justify-content: space-evenly;
+    border: 2px solid purple;
+  }
+  .tittle-testimonial {
+    color: blue;
+  }
+  .name {
+    color: white;
+  }
+  
